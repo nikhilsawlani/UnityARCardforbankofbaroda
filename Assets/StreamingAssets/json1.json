@@ -1,0 +1,20 @@
+{
+    "Account_Number": "29040100001234",
+    "Type_of_account": "SBA",
+    "Branch_in_which_Account": 2904,
+    "Acct_Status": "A",
+    "Account_Opening_Branch": 2904,
+    "Scheme_Code": "SB112",
+    "Account_Name": "Amil Parvatinandan Amarnath",
+    "Account_Opn_Date": 20020826,
+    "Ledger_Balance": 0,
+    "Available_Balance": 3080.25,
+    "Funds_in_clearings": 1447.53,
+    "Drawing_Power": 103.56,
+    "Lien_Amt": 0,
+    "Customer_Name": "Amil Parvatinandan Amarnath",
+    "Joint_Holder_Name_1": "SMITA PARESH PARIYA",
+    "Joint_Holder_Name_2": "NA",
+    "Joint_Holder_Name_3": "NA",
+    "Mode_of_Operation": "EITHER OR SURVIVOR"
+  }

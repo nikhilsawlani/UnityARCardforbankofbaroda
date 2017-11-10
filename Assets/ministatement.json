@@ -1,0 +1,27 @@
+  {
+    "Mini_Statement": [
+      {
+        "id": 0,
+        "Tran_Date": 20170901,
+        "Value_Date": 20170901,
+        "Transaction_Id": "S24437845",
+        "Transaction_type": "C",
+        "Tran_Amt": 2202,
+        "Tran_Rmks": "TDS Recovery",
+        "Instrument_Number": null,
+        "Balance": 5000
+      },
+      {
+        "id": 1,
+        "Tran_Date": 20170918,
+        "Value_Date": 20170918,
+        "Transaction_Id": "S75280776",
+        "Transaction_type": "C",
+        "Tran_Amt": 29900,
+        "Tran_Rmks": "MBK/nimesh",
+        "Instrument_Number": null,
+        "Balance": 20000
+      }
+    ]
+
+  }
